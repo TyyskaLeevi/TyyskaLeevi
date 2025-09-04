@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Olen ensimmäisen vuoden tieto- ja viestintätekniikan opiskelija LAB-ammattikorkeakoulussa
 <!--
 **TyyskaLeevi/TyyskaLeevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
